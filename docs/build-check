@@ -1,1 +1,1 @@
-Команда A: sphinx-build -b html docs/ site/ -W (проверка от студента А)
+Команда проверки сборки: sphinx-build -b html docs/ site/ -W, проверена совместно студентами А и Б
