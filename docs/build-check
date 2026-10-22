@@ -1,0 +1,1 @@
+Команда проверки сборки: sphinx-build -b html docs/ site/ -W
